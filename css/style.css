@@ -1,0 +1,61 @@
+@font-face {
+    src: url(fonts/OpenSans-Regular.woff);
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+}
+.header{
+    font-size: 90px;
+    color: #ffffff;
+    font-weight: 700;
+    background-image: url(..images/work-it.png alt="bascetball player");
+}
+.container{
+    font-weight: 700;
+}
+
+.logo{
+
+}
+
+.container{
+    font-size: 90px;
+    color: #ffffff;
+
+}
+.title{
+    line-height: 31px;
+    text-align: center;
+}
+.title-text{
+    line-height: 100px;
+}
+
+.address-socials{
+
+}
+
+.socials{
+
+}
+
+.socials-item{
+
+}
+
+..socials-link-head{
+
+}
+
+.socials-link-text{
+    width: 311px;
+    height: 77px;
+    border-radius: 38px;
+    background-color: #5e42b0;
+}
+.socials-link{
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 34px;
+    color: #ffffff;
+    font-weight: 400;}
